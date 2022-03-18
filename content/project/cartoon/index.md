@@ -6,7 +6,7 @@ tags:
   - CV
 external_link: ""
 image:
-  filename: nouvelle-image-bitmap.png
+  filename: featured.png
   preview_only: false
 ---
 I am writing
